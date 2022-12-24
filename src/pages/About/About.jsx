@@ -15,7 +15,7 @@ const About = () => {
             <img src = {aboutImg} alt = "" />
           </div>
           <div className='about-text'>
-            <h2 className='about-title fs-26 ls-1'>About BookHub</h2>
+            <h2 className='about-title fs-26 ls-1'>About OQU</h2>
             <p className='fs-17'>Book search app, project for the discipline JavaScript: React.js</p>
             <p className='fs-17'>Book Search App With Open Library Search API Using React JS </p>
             <p className='fs-17'>Made by:<ul>
